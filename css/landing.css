@@ -1,0 +1,76 @@
+html {
+  background-color: grey;
+  
+}
+
+.cabinet,.corkboard{
+  background-color: #F2e5c4;
+}
+
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Courier New', Courier, monospace;
+  color: #333;
+}
+
+.corkboard {
+  background-color: tan;
+  text-align: center;
+  margin: 0px auto;
+  width: 1024px;
+}
+
+.corkboard h1 {
+  font-size: 2em;
+  margin: 0px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+.corkboard .tagline {
+  font-size: 0.9em;
+  margin-top: 5px;
+}
+
+.cabinet {
+  background-color: tan;
+  width: 400px;
+  height: 900px;
+  margin: 20px auto;
+  position: relative;
+}
+
+.drawer {
+  position: absolute;
+  display: block;
+  width: 70%;
+  left: 15%;
+  margin: auto;
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.3em;
+  text-decoration: NONe;
+  color: #222;
+  background: rgba(245, 230, 200, 0.8);
+  border: 2px solid #444;
+  padding: 12px 0;
+  transition: transform 0.2s ease, background 0.3s ease;
+}
+
+.drawer:hover {
+  transform: translateY(-2px) scale(1.02);
+  background: rgba(255,245,220, 0.9);
+}
+
+.drawer-entities {
+  top: 125px;
+}
+
+.drawer-incidents {
+  top: 425px;
+}
+
+.drawer-places {
+  top: 725px;
+}
