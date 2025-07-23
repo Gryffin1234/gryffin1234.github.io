@@ -1,6 +1,7 @@
 html {
   background: url(../images/wallpaper.png);
-  
+  background-size: 20% 20%;
+
 }
 
 .cabinet,.corkboard{
@@ -19,6 +20,10 @@ body {
   text-align: center;
   margin: 0px auto;
   width: 1024px;
+
+}
+.corkboard{
+    
 }
 
 .corkboard h1 {
