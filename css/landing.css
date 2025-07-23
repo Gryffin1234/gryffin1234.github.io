@@ -20,14 +20,14 @@ body {
   text-align: center;
   margin: 0px auto;
   width: 1024px;
-  height: 250px;
+  height: 524px;
 
 }
 .corkboard .corkboard-board{
   background: url(../images/corkboard.png);
   height: 1024px;
   position: relative;
-  top: 0px;
+  top: -500px;
   
 }
 .corkboard .corkboard-note {
@@ -42,6 +42,7 @@ body {
 .corkboard h1 {
   font-size: 2em;
   margin: 0px;
+  margin-top: 150px;
   text-transform: uppercase;
   letter-spacing: 2px;
 }
