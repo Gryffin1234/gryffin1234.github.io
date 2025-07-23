@@ -1,5 +1,5 @@
 html {
-  background: url(./images/wallpaper.png);
+  background: url(../images/wallpaper.png);
   
 }
 
@@ -37,7 +37,7 @@ body {
   background-color: tan;
   width: 400px;
   height: 900px;
-  margin: 20px auto;
+  margin: 0px auto;
   position: relative;
 }
 
