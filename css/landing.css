@@ -32,11 +32,11 @@ body {
 }
 .corkboard .corkboard-note {
   position: absolute;
-  top: 550px;
+  top: 570px;
   background: url(..//images/titlepaper.png);
   height: 447px;
   width: 793px;
-  left: 145px;
+  left: 146px;
 }
 
 .corkboard h1 {
