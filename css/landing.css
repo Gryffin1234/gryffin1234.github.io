@@ -27,10 +27,16 @@ body {
   background: url(../images/corkboard.png);
   height: 1024px;
   position: relative;
-  top: -774px;
+  top: 0px;
+  
 }
 .corkboard .corkboard-note {
-    
+  position: absolute;
+  top: 550px;
+  background: url(..//images/titlepaper.png);
+  height: 447px;
+  width: 793px;
+  left: 145px;
 }
 
 .corkboard h1 {
