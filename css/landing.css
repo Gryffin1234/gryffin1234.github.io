@@ -30,6 +30,17 @@ body {
   top: -500px;
   
 }
+
+.corkboard-pin {
+  background: url(../images/Pin.png);
+  height: 32px;
+  width: 30px;
+  position: relative;
+  top: 40px;
+  left: 350px;
+  background-size: cover;
+}
+
 .corkboard .corkboard-note {
   position: absolute;
   top: 570px;
