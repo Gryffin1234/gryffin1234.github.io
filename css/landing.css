@@ -1,6 +1,6 @@
 html {
   background: url(../images/wallpaper.png);
-  background-size: 20% 20%;
+  background-size: 10% auto;
 
 }
 
@@ -53,7 +53,7 @@ body {
 .corkboard h1 {
   font-size: 2em;
   margin: 0px;
-  margin-top: 150px;
+  margin-top: 130px;
   text-transform: uppercase;
   letter-spacing: 2px;
 }
