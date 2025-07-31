@@ -45,9 +45,10 @@ body {
   position: absolute;
   top: 570px;
   background: url(..//images/titlepaper.png);
-  height: 447px;
-  width: 793px;
-  left: 146px;
+  height: 361px;
+  width: 652px;
+  left: 191px;
+  background-size: cover;
 }
 
 .corkboard h1 {
