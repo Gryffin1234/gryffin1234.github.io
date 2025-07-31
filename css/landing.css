@@ -83,7 +83,13 @@ body {
 .cabinet-mid{
   background: url(..//images/Cabinet_Drawer.png);
   width: 608px;
-  height: 398px;
+  height: 350px;
+}
+
+.cabinet-bottom{
+  background: url(..//images/Cabinet_Bottom.png);
+  width: 608px;
+  height: 174px;
 }
 
 .drawer-entities {
