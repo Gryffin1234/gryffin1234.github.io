@@ -90,6 +90,13 @@ body {
   background: url(..//images/Cabinet_Bottom.png);
   width: 608px;
   height: 174px;
+  margin-bottom: 50px;
+}
+
+.cabinet-floor{
+  background: url(..//images/carpet.png);
+  width: 100%;
+  height: 746px;
 }
 
 .drawer-entities {
