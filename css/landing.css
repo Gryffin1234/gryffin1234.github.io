@@ -66,14 +66,18 @@ body {
 
 .cabinet {
   background-color: tan;
-  width: 400px;
-  height: 900px;
-  margin: 0px auto;
+  width: fit-content;
+  height: fit-content;
+  margin: auto;
+  margin-top: 30px;
   position: relative;
+  
 }
 
 .cabinet-top{
   background: url(..//images/Cabinet_Top.png);
+  width: 608px;
+  height: 398px;
 }
 
 .drawer-entities {
